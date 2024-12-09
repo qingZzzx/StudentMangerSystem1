@@ -1,0 +1,145 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bysj.yrj"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="19"
+8-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="19" />
+9-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:9:9-38
+10    <!-- 读取手机状态和身份 -->
+11    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+11-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:11:4-74
+11-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:11:21-71
+12    <!-- 拥有完全的网络访问权限 -->
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:13:4-66
+13-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:13:21-63
+14    <!-- 读取手机状态和身份 -->
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:11:4-74
+15-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:11:21-71
+16    <!-- 修改或删除您的USB存储设备中的内容 -->
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:17:4-80
+17-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:17:21-77
+18    <!-- 查看网络连接 -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:19:4-78
+19-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:19:21-75
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:19:4-78
+20-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:19:21-75
+21
+22    <application
+22-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:21:5-79:19
+23        android:allowBackup="true"
+23-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:22:9-35
+24        android:debuggable="true"
+25        android:icon="@drawable/ic_launcher"
+25-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:23:9-45
+26        android:label="@string/app_name"
+26-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:24:9-41
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:25:9-40
+29        <activity
+29-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:26:9-34:20
+30            android:name="com.bysj.yrj.LoginActivity"
+30-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:27:13-42
+31            android:label="@string/app_name" >
+31-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:28:13-45
+32            <intent-filter>
+32-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:29:13-33:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:30:17-69
+33-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:30:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:32:17-77
+35-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:32:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:35:9-38:20
+39            android:name="com.bysj.yrj.RegisterActivity"
+39-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:36:13-45
+40            android:label="@string/title_activity_register" >
+40-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:37:13-60
+41        </activity>
+42        <activity
+42-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:39:9-42:20
+43            android:name="com.bysj.yrj.MainActivity"
+43-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:40:13-41
+44            android:label="@string/title_activity_Main" >
+44-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:41:13-56
+45        </activity>
+46        <activity
+46-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:43:9-46:20
+47            android:name="com.bysj.yrj.AddStudentInfoActivity"
+47-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:44:13-51
+48            android:label="@string/title_activity_add_info" >
+48-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:45:13-60
+49        </activity>
+50        <activity
+50-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:47:9-50:20
+51            android:name="com.bysj.yrj.PassRepairActivity"
+51-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:48:13-47
+52            android:label="@string/title_activity_pass_repair" >
+52-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:49:13-63
+53        </activity>
+54        <activity
+54-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:51:9-54:20
+55            android:name="com.bysj.yrj.ShowStudentInfoActivity"
+55-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:52:13-52
+56            android:label="@string/title_activity_show_student_info" >
+56-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:53:13-69
+57        </activity>
+58        <activity
+58-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:55:9-58:20
+59            android:name="com.bysj.yrj.WeihuStudentInfoActivity"
+59-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:56:13-53
+60            android:label="@string/title_activity_weihu_student_info" >
+60-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:57:13-70
+61        </activity>
+62        <activity
+62-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:59:9-62:20
+63            android:name="com.bysj.yrj.RepairStudentInfoActivity"
+63-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:60:13-54
+64            android:label="@string/title_activity_repair_student_info" >
+64-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:61:13-71
+65        </activity>
+66        <activity
+66-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:63:9-66:20
+67            android:name="com.bysj.yrj.AddStudentScoreActivity"
+67-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:64:13-52
+68            android:label="@string/title_activity_add_student_score" >
+68-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:65:13-69
+69        </activity>
+70        <activity
+70-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:67:9-70:20
+71            android:name="com.bysj.yrj.ShowStudentScoreActivity"
+71-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:68:13-53
+72            android:label="@string/title_activity_show_student_score" >
+72-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:69:13-70
+73        </activity>
+74        <activity
+74-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:71:9-74:20
+75            android:name="com.bysj.yrj.WeihuStudentScoreActivity"
+75-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:72:13-54
+76            android:label="@string/title_activity_weihu_student_score" >
+76-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:73:13-71
+77        </activity>
+78        <activity
+78-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:75:9-78:20
+79            android:name="com.bysj.yrj.RepairStudentScoreActivity"
+79-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:76:13-55
+80            android:label="@string/title_activity_repair_student_score" >
+80-->D:\StudentMangerSystem1\app\src\main\AndroidManifest.xml:77:13-72
+81        </activity>
+82    </application>
+83
+84</manifest>

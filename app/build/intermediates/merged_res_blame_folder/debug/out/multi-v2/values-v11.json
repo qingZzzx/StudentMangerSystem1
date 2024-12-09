@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bysj.yrj.app-mergeDebugResources-3:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\StudentMangerSystem1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}
