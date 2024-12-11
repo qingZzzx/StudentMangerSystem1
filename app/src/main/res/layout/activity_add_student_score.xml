@@ -78,7 +78,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:gravity="center|center_horizontal"
-            android:text="Android应用开发：" />
+            android:text="Android程序设计：" />
 
         <EditText
             android:id="@+id/addscoreandroidtext"
@@ -101,7 +101,7 @@
             android:layout_width="wrap_content"
             android:layout_height="31dp"
             android:gravity="center|center_horizontal"
-            android:text="JAVA高级应用：" />
+            android:text="高频电子线路：" />
 
         <EditText
             android:id="@+id/addscorejavatext"
@@ -122,7 +122,7 @@
             android:layout_width="wrap_content"
             android:layout_height="29dp"
             android:gravity="center|center_horizontal"
-            android:text="HTML移动WEB：" />
+            android:text="数字信号处理：" />
 
         <EditText
             android:id="@+id/addscorehtmltext"

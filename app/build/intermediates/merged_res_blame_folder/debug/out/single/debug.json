@@ -1,182 +1,190 @@
 [
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_main.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_userpass.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\userpass.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_bg5.jpg.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/bg5.jpg"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_show_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_show_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_weihu_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_weihu_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_weihu_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_weihu_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_addscore.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/addscore.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_show_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_show_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_showinfo.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\showinfo.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_repair_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_repair_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_bg1.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/bg1.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_mygrid.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\mygrid.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_repair_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/repair_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_bg1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\bg1.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_addinfo.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/addinfo.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_repair_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_repair_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_main.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/main.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_repair_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\repair_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_pass.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/pass.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_weihuscore.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/weihuscore.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_bg2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_show_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\show_student_score.xml"
     },
     {
         "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_repair_student_score.xml.flat",
         "source": "com.bysj.yrj.app-main-7:/layout/activity_repair_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_pass_repair.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_pass_repair.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_pass_repair.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_pass_repair.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_register.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_register.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_weihu_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_weihu_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_showinfo.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/showinfo.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_add_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_add_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_add_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/add_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_weihu_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\weihu_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_register.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/register.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_repair_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\repair_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_bg3.jpg.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/bg3.jpg"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_addscore.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\addscore.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_weihuinfo.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\weihuinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_help.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_add_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\add_student_score.xml"
     },
     {
         "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_add_student_score.xml.flat",
         "source": "com.bysj.yrj.app-main-7:/layout/activity_add_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_bg4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\bg4.jpg"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_login.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_weihu_student_score.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\weihu_student_score.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_weihu_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_weihu_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_pass.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\pass.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_add_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/add_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_exit.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\exit.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_show_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_show_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_add_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\add_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_activity_add_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/activity_add_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_user.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\user.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_show_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/show_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_weihuscore.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\weihuscore.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_repair_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/repair_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\main.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_bg4.jpg.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/bg4.jpg"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_showscore.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\showscore.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_showscore.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/showscore.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\login.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_bg3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\bg3.jpg"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_weihu_student_score.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/weihu_student_score.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_repair_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_repair_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_login.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/login.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_show_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\show_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_help.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/help.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_add_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_add_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_weihuinfo.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/weihuinfo.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_bg5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\bg5.jpg"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_exit.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/exit.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_register.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\register.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_weihu_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/weihu_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\menu_pass_repair.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\menu\\pass_repair.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-mdpi_addinfo.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-mdpi\\addinfo.png"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_user.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/user.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\layout_activity_show_student_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\layout\\activity_show_student_info.xml"
     },
     {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_pass_repair.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/pass_repair.xml"
-    },
-    {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_userpass.png.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/userpass.png"
-    },
-    {
-        "merged": "com.bysj.yrj.app-merged_res-5:/drawable-mdpi_bg2.jpg.flat",
-        "source": "com.bysj.yrj.app-main-7:/drawable-mdpi/bg2.jpg"
-    },
-    {
-        "merged": "com.bysj.yrj.app-merged_res-5:/layout_mygrid.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/layout/mygrid.xml"
-    },
-    {
-        "merged": "com.bysj.yrj.app-merged_res-5:/menu_show_student_info.xml.flat",
-        "source": "com.bysj.yrj.app-main-7:/menu/show_student_info.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-merged_res-5:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.bysj.yrj.app-main-7:\\drawable-hdpi\\ic_launcher.png"
     }
 ]

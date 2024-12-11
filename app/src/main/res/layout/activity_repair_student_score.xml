@@ -42,7 +42,7 @@
             android:id="@+id/textView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="HTML移动WEB：" />
+            android:text="数字信号处理：" />
 
         <EditText
             android:id="@+id/repscorehtmltext"
@@ -62,7 +62,7 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="JAVA高级应用：" />
+            android:text="高频电子线路：" />
 
         <EditText
             android:id="@+id/repscorejavatext"
@@ -86,7 +86,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Android应用开发：" />
+            android:text="Android程序设计：" />
 
         <EditText
             android:id="@+id/repscoreandroidtext"
