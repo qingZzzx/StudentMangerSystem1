@@ -173,9 +173,9 @@ public class MainActivity extends Activity {
 //     	startActivity(intent);
 //     	intent = packageManager.getLaunchIntentForPackage("com.tencent.mobileqq");
     	 //方法二
-    	Uri uri = Uri.parse("http://qm.qq.com/cgi-bin/qm/qr?k=XALdOZEPRx8ndbgaQoetggHd-mGfeusx");
-     	Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-     	startActivity(intent);
+ //   	Uri uri = Uri.parse("http://qm.qq.com/cgi-bin/qm/qr?k=XALdOZEPRx8ndbgaQoetggHd-mGfeusx");
+ //    	Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+ //    	startActivity(intent);
      }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
